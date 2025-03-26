@@ -17,6 +17,9 @@ Use the following questions to guide your analysis.
 ## Data Cleaning Process
 ## SQL Analysis
 What are the total sales by region?<br>
+
+![grading-scale.PNG](img/Image1.PNG)
+
 What are the total sales by region? <br>
 Which product category generates the highest revenue? <br>
 What is the average shipping fee by region? <br>
