@@ -41,5 +41,36 @@ Use the following questions to guide your analysis.
 ![grading-scale.PNG](img/Image6.PNG)
 
 ## Python Analysis
+### Intsalling required dependencies and connecting to the database
+
+
+### Data cleaning and preprocessing
+
+### Exploratory Data Analysis (EDA)
+### The Story of Our E-Commerce Data
+Unveiling Shopping Patterns, Customer Behavior, and Business Growth
+#### Total Sales by Category
+
+
+#### Sales Trend Over Time
+
+#### Who Are Our Best Customers?
+##### Gender-Based Spending Trends
+
+
+#### What Drives Sales?
+##### The Best-Selling Products
+
+#### When Do Customers Spend the Most?
+#####  Monthly Sales Trends
+
+
+#### Where Are Our Most Valuable Customers?
+##### Revenue by Region
+
+
+#### Is Shipping a Problem?
+##### Order Delivery Status
+
 ## Power BI Dashboard
 ## Conclusion
