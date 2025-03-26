@@ -47,7 +47,7 @@ Use the following questions to guide your analysis.
 ### Data cleaning and preprocessing
 
 ### Exploratory Data Analysis (EDA)
-### The Story of Our E-Commerce Data
+## 📖The Story of Our E-Commerce Data
 Unveiling Shopping Patterns, Customer Behavior, and Business Growth
 #### Total Sales by Category
 
