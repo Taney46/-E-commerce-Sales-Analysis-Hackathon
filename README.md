@@ -16,27 +16,27 @@ Use the following questions to guide your analysis.
 ## Introduction
 ## Data Cleaning Process
 ## SQL Analysis
-What are the total sales by region?<br>
+### What are the total sales by region?<br>
 
 ![grading-scale.PNG](img/Image1.PNG)
 
-Which product category generates the highest revenue? <br>
+### Which product category generates the highest revenue? <br>
 
 ![grading-scale.PNG](img/Image2.PNG)
 
-What is the average shipping fee by region? <br>
+### What is the average shipping fee by region? <br>
 
 ![grading-scale.PNG](img/Image3.PNG)
 
-How does customer age impact purchasing behavior?<br> 
+### How does customer age impact purchasing behavior?<br> 
 
-![grading-scale.PNG](img/Image4.1.PNG) ![grading-scale.PNG](img/Image4.2.PNG) ![grading-scale.PNG](img/Image4.3.PNG)
+![grading-scale.PNG](img/IMAGE4.1.PNG) ![grading-scale.PNG](img/Image4.2.PNG) ![grading-scale.PNG](img/Image4.3.PNG)
 
-What is the most popular product by gender? <br>
+### What is the most popular product by gender? <br>
 
 ![grading-scale.PNG](img/Image5.PNG)
 
-What is the order fulfillment rate (delivered vs. returned)?<br>
+### What is the order fulfillment rate (delivered vs. returned)?<br>
 
 ![grading-scale.PNG](img/Image6.PNG)
 
