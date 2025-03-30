@@ -139,29 +139,27 @@ This document outlines the process of building a Power BI dashboard for the **E-
 - Used **DAX (Data Analysis Expressions)** to compute revenue by category and region.
 
 ### **3️⃣ Creating Visualizations**
-✅ **Total Sales Overview** → KPI Card displaying total sales.
+✅ **Total Sales Overview** → KPI Card displaying total sales.<br>
 ![Total Sales Overview](img/Image18.PNG)
 
-✅ **Sales by Region** → Donut Chart showing revenue per region.
+✅ **Sales by Region** → Donut Chart showing revenue per region.<br>
 ![Sales by Region](img/Image21.PNG)
 
-✅ **Sales by Category** → Pie Chart comparing delivered vs. returned orders.
+✅ **Sales by Category** → Pie Chart comparing delivered vs. returned orders.<br>
 ![Sales by Category](img/Image22.PNG)
 
-✅ **Top-Selling Products** → Bar Chart ranking best-selling products.
+✅ **Top-Selling Products** → Bar Chart ranking best-selling products.<br>
 ![Top Selling Products](img/Image20.PNG)
 
-✅ **Sales Trend Over Time** → Line Chart tracking revenue over months.
+✅ **Sales Trend Over Time** → Line Chart tracking revenue over months.<br>
 ![Sales Trend](img/Image19.PNG)
 
-✅ **Customer Demographics** → Gender-based & Age-based spending analysis.
+✅ **Customer Demographics** → Gender-based & Age-based spending analysis.<br>
 ![Sales by Gender](img/Image23.PNG) <br>
 ![Sales by Age](img/Image24.PNG)
 
 ---
 
-## 📌 Conclusion
-This Power BI analysis helps identify trends, optimize sales strategies, and improve customer satisfaction by leveraging data-driven insights. The findings can support decision-making for inventory management, targeted marketing, and shipping optimization.
 
 ![Dashboard](img/Image25.PNG)
 
