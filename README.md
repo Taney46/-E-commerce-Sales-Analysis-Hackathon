@@ -1,5 +1,5 @@
 # E-Commerce Sales Analysis Hackathon
-
+BY JUANITA CHEPHCUMBA
 ## 🏆 Project Overview
 This project is part of the **E-Commerce Sales Analysis Hackathon**, where the goal is to analyze sales data to uncover valuable insights on customer behavior, sales trends, and order fulfillment efficiency. The analysis is conducted using **SQL, Python, and Power BI**.
 
