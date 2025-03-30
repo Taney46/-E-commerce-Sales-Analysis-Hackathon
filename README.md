@@ -54,7 +54,7 @@ Performed SQL queries to extract insights:
 ![Shipping Fee](img/Image3.PNG)
 
 #### ✅ Customer Age vs. Purchasing Behavior
-![Customer Age](img/Image4.1.PNG) ![Customer Age](img/Image4.2.PNG) ![Customer Age](img/Image4.3.PNG)
+![Customer Age](img/IMAGE4.1.PNG) ![Customer Age](img/Image4.2.PNG) ![Customer Age](img/Image4.3.PNG)
 
 #### ✅ Most Popular Product by Gender
 ![Popular Product](img/Image5.PNG)
@@ -95,7 +95,7 @@ The Python analysis was performed using **Pandas and SQLAlchemy** to process sal
 
 - **Python dashboard**<br>
 ![Dashboard](img/Image16.PNG)<br>
-![Dashboard](img/Image175.PNG)
+![Dashboard](img/Image17.PNG)
 
 ---
 
