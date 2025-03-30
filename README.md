@@ -73,24 +73,41 @@ The Python analysis was performed using **Pandas and SQLAlchemy** to process sal
 - Handled missing values and duplicates.
 - Transformed data into structured formats for analysis.
 
+![Data Loading](img/Image7.PNG)<br>
+![Data Cleaning](img/Image8.PNG)
+
 ### **3️⃣ Exploratory Data Analysis (EDA)**
 - **Total Sales by Category** → Analyzed revenue per product type.
-- **Sales Trends Over Time** → Identified peak shopping months.
-- **Customer Spending Trends** → Gender-based and region-based analysis.
-- **Order Delivery Status** → Analyzed delivery success rates.
+![Total Sales by category](img/Image9.PNG)
 
-*(Screenshots of Python visualizations can be included here.)*
+- **Daily Sales Trends Over Time** → Identified peak shopping months.
+![Sales Trends over time](img/Image10.PNG)
+
+**Monthly Sales Trends Over Time** → Identified peak shopping months.
+![Sales Trends over time](img/Image12.PNG)
+
+- **Customer Spending Trends** → Gender-based and region-based analysis.
+![Agerage spending per customer by gender](img/Image11.PNG)
+![Sales distribution by region](img/Image14.PNG)
+
+- **Order Delivery Status** → Analyzed delivery success rates.
+![Shipping status distribution](img/Image15.PNG)
+
+- **Python dashboard**
+![Dashboard](img/Image16.PNG)
+![Dashboard](img/Image175.PNG)
 
 ---
 
 ## 📈 Power BI Dashboard
 The Power BI dashboard was created to visually present the findings. Key visualizations include:
-- **Total Revenue Overview**
+- **Total Sales Overview**
+- **Sales Trend**
 - **Sales by Region & Category**
 - **Customer Demographics & Spending Trends**
-- **Order Fulfillment Analysis**
+- **Top-selling Products**
 
-*(Attach a screenshot of the Power BI dashboard here.)*
+![Dashboard](img/Image25.PNG)
 
 ---
 

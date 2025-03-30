@@ -16,7 +16,7 @@ This document outlines the process of building a Power BI dashboard for the **E-
 ## 📂 Dataset Used
 - **File Name:** `sales_data.csv`
 - **Key Columns:**
-  - `CustomerID`, `Gender`, `Age`, `Region`
+  - `CustomeNo`, `CustomerID`, `Gender`, `Age`, `Region`
   - `ProductName`, `Category`, `UnitPrice`, `Quantity`, `TotalPrice`
   - `ShippingStatus`, `OrderDate`
 
@@ -37,12 +37,24 @@ This document outlines the process of building a Power BI dashboard for the **E-
 - Used **DAX (Data Analysis Expressions)** to compute revenue by category and region.
 
 ### **3️⃣ Creating Visualizations**
-✅ **Total Revenue Overview** → KPI Card displaying total revenue.
+✅ **Total Sales Overview** → KPI Card displaying total sales.
+![Total Sales Overview](img/Image18.PNG)
+
 ✅ **Sales by Region** → Donut Chart showing revenue per region.
+![Sales by Region](img/Image21.PNG)
+
+✅ **Sales by Category** → Pie Chart comparing delivered vs. returned orders.
+![Sales by Category](img/Image22.PNG)
+
 ✅ **Top-Selling Products** → Bar Chart ranking best-selling products.
+![Top Selling Products](img/Image20.PNG)
+
 ✅ **Sales Trend Over Time** → Line Chart tracking revenue over months.
+![Sales Trend](img/Image19.PNG)
+
 ✅ **Customer Demographics** → Gender-based & Age-based spending analysis.
-✅ **Order Fulfillment** → Pie Chart comparing delivered vs. returned orders.
+![Sales by Gender](img/Image23.PNG) <br>
+![Sales by Age](img/Image24.PNG)
 
 ---
 
@@ -55,7 +67,8 @@ This document outlines the process of building a Power BI dashboard for the **E-
 ---
 
 ## 📸 Final Dashboard
-*(Attach a screenshot of the Power BI dashboard here)*
+![Dashboard](img/Image25.PNG)
+
 
 ---
 
