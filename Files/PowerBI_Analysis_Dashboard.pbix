@@ -1,1 +1,65 @@
+# Power BI Analysis for E-Commerce Sales
+
+## 📊 Overview
+This document outlines the process of building a Power BI dashboard for the **E-Commerce Sales Analysis Hackathon**. The dashboard visualizes key insights from the dataset, including **sales trends, customer behavior, and order fulfillment metrics**.
+
+---
+
+## 🎯 Objectives
+- Identify **top-selling products and high-revenue categories**.
+- Analyze **sales trends over time** to determine peak shopping periods.
+- Assess **customer demographics (gender, age, region) and their impact on purchasing behavior**.
+- Evaluate the **order fulfillment rate** (delivered vs. returned orders).
+
+---
+
+## 📂 Dataset Used
+- **File Name:** `sales_data.csv`
+- **Key Columns:**
+  - `CustomerID`, `Gender`, `Age`, `Region`
+  - `ProductName`, `Category`, `UnitPrice`, `Quantity`, `TotalPrice`
+  - `ShippingStatus`, `OrderDate`
+
+---
+
+## 🛠️ Steps to Build the Dashboard
+
+### **1️⃣ Data Import & Preparation**
+- Imported `sales_data.csv` into Power BI.
+- Checked data types and ensured correct formatting.
+- Transformed `OrderDate` into **Date/Time format** for time-based analysis.
+- Removed duplicate entries and handled missing values.
+
+### **2️⃣ Data Cleaning & Transformation**
+- Created **calculated columns**:
+  - `TotalRevenue = UnitPrice * Quantity`
+  - `AverageShippingFee = AVERAGE(ShippingFee)`
+- Used **DAX (Data Analysis Expressions)** to compute revenue by category and region.
+
+### **3️⃣ Creating Visualizations**
+✅ **Total Revenue Overview** → KPI Card displaying total revenue.
+✅ **Sales by Region** → Donut Chart showing revenue per region.
+✅ **Top-Selling Products** → Bar Chart ranking best-selling products.
+✅ **Sales Trend Over Time** → Line Chart tracking revenue over months.
+✅ **Customer Demographics** → Gender-based & Age-based spending analysis.
+✅ **Order Fulfillment** → Pie Chart comparing delivered vs. returned orders.
+
+---
+
+## 📈 Key Insights & Business Recommendations
+📌 **Laptops & Smartphones** generate the highest revenue.
+📌 **East & North regions** contribute the most sales.
+📌 **Customers aged 45-54** are the biggest spenders.
+📌 **Majority of orders are delivered**, but **5% are returned**, indicating a potential quality issue.
+
+---
+
+## 📸 Final Dashboard
+*(Attach a screenshot of the Power BI dashboard here)*
+
+---
+
+## 📌 Conclusion
+This Power BI analysis helps identify trends, optimize sales strategies, and improve customer satisfaction by leveraging data-driven insights. The findings can support decision-making for inventory management, targeted marketing, and shipping optimization.
+
 
