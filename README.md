@@ -87,25 +87,81 @@ The Python analysis was performed using **Pandas and SQLAlchemy** to process sal
 ![Sales Trends over time](img/Image12.PNG)
 
 - **Customer Spending Trends** → Gender-based and region-based analysis.
-![Agerage spending per customer by gender](img/Image11.PNG)
+![Agerage spending per customer by gender](img/Image11.PNG)<br>
 ![Sales distribution by region](img/Image14.PNG)
 
 - **Order Delivery Status** → Analyzed delivery success rates.
 ![Shipping status distribution](img/Image15.PNG)
 
 - **Python dashboard**
-![Dashboard](img/Image16.PNG)
+![Dashboard](img/Image16.PNG)<br>
 ![Dashboard](img/Image175.PNG)
 
 ---
 
 ## 📈 Power BI Dashboard
-The Power BI dashboard was created to visually present the findings. Key visualizations include:
-- **Total Sales Overview**
-- **Sales Trend**
-- **Sales by Region & Category**
-- **Customer Demographics & Spending Trends**
-- **Top-selling Products**
+# Power BI Analysis for E-Commerce Sales
+
+## 📊 Overview
+This document outlines the process of building a Power BI dashboard for the **E-Commerce Sales Analysis Hackathon**. The dashboard visualizes key insights from the dataset, including **sales trends, customer behavior, and order fulfillment metrics**.
+
+---
+
+## 🎯 Objectives
+- Identify **top-selling products and high-revenue categories**.
+- Analyze **sales trends over time** to determine peak shopping periods.
+- Assess **customer demographics (gender, age, region) and their impact on purchasing behavior**.
+- Evaluate the **order fulfillment rate** (delivered vs. returned orders).
+
+---
+
+## 📂 Dataset Used
+- **File Name:** `sales_data.csv`
+- **Key Columns:**
+  - `CustomeNo`, `CustomerID`, `Gender`, `Age`, `Region`
+  - `ProductName`, `Category`, `UnitPrice`, `Quantity`, `TotalPrice`
+  - `ShippingStatus`, `OrderDate`
+
+---
+
+## 🛠️ Steps to Build the Dashboard
+
+### **1️⃣ Data Import & Preparation**
+- Imported `sales_data.csv` into Power BI.
+- Checked data types and ensured correct formatting.
+- Transformed `OrderDate` into **Date/Time format** for time-based analysis.
+- Removed duplicate entries and handled missing values.
+
+### **2️⃣ Data Cleaning & Transformation**
+- Created **calculated columns**:
+  - `TotalRevenue = UnitPrice * Quantity`
+  - `AverageShippingFee = AVERAGE(ShippingFee)`
+- Used **DAX (Data Analysis Expressions)** to compute revenue by category and region.
+
+### **3️⃣ Creating Visualizations**
+✅ **Total Sales Overview** → KPI Card displaying total sales.
+![Total Sales Overview](img/Image18.PNG)
+
+✅ **Sales by Region** → Donut Chart showing revenue per region.
+![Sales by Region](img/Image21.PNG)
+
+✅ **Sales by Category** → Pie Chart comparing delivered vs. returned orders.
+![Sales by Category](img/Image22.PNG)
+
+✅ **Top-Selling Products** → Bar Chart ranking best-selling products.
+![Top Selling Products](img/Image20.PNG)
+
+✅ **Sales Trend Over Time** → Line Chart tracking revenue over months.
+![Sales Trend](img/Image19.PNG)
+
+✅ **Customer Demographics** → Gender-based & Age-based spending analysis.
+![Sales by Gender](img/Image23.PNG) <br>
+![Sales by Age](img/Image24.PNG)
+
+---
+
+## 📌 Conclusion
+This Power BI analysis helps identify trends, optimize sales strategies, and improve customer satisfaction by leveraging data-driven insights. The findings can support decision-making for inventory management, targeted marketing, and shipping optimization.
 
 ![Dashboard](img/Image25.PNG)
 
