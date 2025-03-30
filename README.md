@@ -77,23 +77,23 @@ The Python analysis was performed using **Pandas and SQLAlchemy** to process sal
 ![Data Cleaning](img/Image8.PNG)
 
 ### **3️⃣ Exploratory Data Analysis (EDA)**
-- **Total Sales by Category** → Analyzed revenue per product type.
-![Total Sales by category](img/Image9.PNG)
+- **Total Sales by Category** → Analyzed revenue per product type.<br>
+![Total Sales by category](img/Image9.PNG)<br>
 
-- **Daily Sales Trends Over Time** → Identified peak shopping months.
-![Sales Trends over time](img/Image10.PNG)
+- **Daily Sales Trends Over Time** → Identified peak shopping months.<br>
+![Sales Trends over time](img/Image10.PNG)<br>
 
-**Monthly Sales Trends Over Time** → Identified peak shopping months.
-![Sales Trends over time](img/Image12.PNG)
+**Monthly Sales Trends Over Time** → Identified peak shopping months.<br>
+![Sales Trends over time](img/Image12.PNG)<br>
 
-- **Customer Spending Trends** → Gender-based and region-based analysis.
+- **Customer Spending Trends** → Gender-based and region-based analysis.<br>
 ![Agerage spending per customer by gender](img/Image11.PNG)<br>
-![Sales distribution by region](img/Image14.PNG)
+![Sales distribution by region](img/Image14.PNG)<br>
 
-- **Order Delivery Status** → Analyzed delivery success rates.
-![Shipping status distribution](img/Image15.PNG)
+- **Order Delivery Status** → Analyzed delivery success rates.<br>
+![Shipping status distribution](img/Image15.PNG)<br>
 
-- **Python dashboard**
+- **Python dashboard**<br>
 ![Dashboard](img/Image16.PNG)<br>
 ![Dashboard](img/Image175.PNG)
 
@@ -160,7 +160,7 @@ This document outlines the process of building a Power BI dashboard for the **E-
 
 ---
 
-
+**DASHBOARD**
 ![Dashboard](img/Image25.PNG)
 
 ---
