@@ -9,17 +9,17 @@ This project is part of the **E-Commerce Sales Analysis Hackathon**, where the g
 The analysis is guided by the following key questions:
 
 ### **Sales Analysis**
-1️⃣ What are the **total sales by region**?
-2️⃣ Which **product category** generates the highest revenue?
-3️⃣ What is the **average shipping fee** by region?
+1️⃣ What are the **total sales by region**?<br>
+2️⃣ Which **product category** generates the highest revenue?<br>
+3️⃣ What is the **average shipping fee** by region?<br>
 
 ### **Customer Behavior**
-4️⃣ How does **customer age** impact purchasing behavior?
-5️⃣ What is the **most popular product by gender**?
+4️⃣ How does **customer age** impact purchasing behavior?<br>
+5️⃣ What is the **most popular product by gender**?<br>
 
 ### **Order Fulfillment**
-6️⃣ What is the **order fulfillment rate** (delivered vs. returned)?
-7️⃣ Are there **trends in shipping status over time**?
+6️⃣ What is the **order fulfillment rate** (delivered vs. returned)?<br>
+7️⃣ Are there **trends in shipping status over time**?<br>
 
 ---
 
@@ -77,24 +77,25 @@ The Python analysis was performed using **Pandas and SQLAlchemy** to process sal
 ![Data Cleaning](img/Image8.PNG)
 
 ### **3️⃣ Exploratory Data Analysis (EDA)**
-- **Total Sales by Category** → Analyzed revenue per product type.<br>
+
+- **Total Sales by Category** → Analyzed revenue per product type.<br><br>
 ![Total Sales by category](img/Image9.PNG)<br>
 
-- **Daily Sales Trends Over Time** → Identified peak shopping months.<br>
+- **Daily Sales Trends Over Time** → Identified peak shopping months.<br><br>
 ![Sales Trends over time](img/Image10.PNG)<br>
 
-**Monthly Sales Trends Over Time** → Identified peak shopping months.<br>
+**Monthly Sales Trends Over Time** → Identified peak shopping months.<br><br>
 ![Sales Trends over time](img/Image12.PNG)<br>
 
-- **Customer Spending Trends** → Gender-based and region-based analysis.<br>
+- **Customer Spending Trends** → Gender-based and region-based analysis.<br><br>
 ![Agerage spending per customer by gender](img/Image11.PNG)<br>
 ![Sales distribution by region](img/Image14.PNG)<br>
 
-- **Order Delivery Status** → Analyzed delivery success rates.<br>
+- **Order Delivery Status** → Analyzed delivery success rates.<br><br>
 ![Shipping status distribution](img/Image15.PNG)<br>
 
 - **Python dashboard**<br>
-![Dashboard](img/Image16.PNG)<br>
+![Dashboard](img/Image16.PNG)
 ![Dashboard](img/Image17.PNG)
 
 ---
@@ -139,22 +140,22 @@ This document outlines the process of building a Power BI dashboard for the **E-
 - Used **DAX (Data Analysis Expressions)** to compute revenue by category and region.
 
 ### **3️⃣ Creating Visualizations**
-✅ **Total Sales Overview** → KPI Card displaying total sales.<br>
+✅ **Total Sales Overview** → KPI Card displaying total sales.<br><br>
 ![Total Sales Overview](img/Image18.PNG)
 
-✅ **Sales by Region** → Donut Chart showing revenue per region.<br>
+✅ **Sales by Region** → Donut Chart showing revenue per region.<br><br>
 ![Sales by Region](img/Image21.PNG)
 
-✅ **Sales by Category** → Pie Chart comparing delivered vs. returned orders.<br>
+✅ **Sales by Category** → Donut Chart showing sales performance in differnt categories<br><br>
 ![Sales by Category](img/Image22.PNG)
 
-✅ **Top-Selling Products** → Bar Chart ranking best-selling products.<br>
+✅ **Top-Selling Products** → Bar Chart ranking best-selling products.<br><br>
 ![Top Selling Products](img/Image20.PNG)
 
-✅ **Sales Trend Over Time** → Line Chart tracking revenue over months.<br>
+✅ **Sales Trend Over Time** → Line Chart tracking revenue over months.<br><br>
 ![Sales Trend](img/Image19.PNG)
 
-✅ **Customer Demographics** → Gender-based & Age-based spending analysis.<br>
+✅ **Customer Demographics** → Gender-based & Age-based spending analysis.<br><br>
 ![Sales by Gender](img/Image23.PNG) <br>
 ![Sales by Age](img/Image24.PNG)
 
@@ -166,10 +167,10 @@ This document outlines the process of building a Power BI dashboard for the **E-
 ---
 
 ## 📌 Business Insights & Recommendations
-📌 **Laptops & Smartphones** generate the highest revenue. Focus marketing efforts on these products.
-📌 **North & East regions** drive the most sales. Consider expanding services in these areas.
-📌 **Customers aged 45-54** spend the most. Personalized marketing can increase sales.
-📌 **5% of orders are returned**, indicating potential issues with product quality or delivery service.
+📌 **Laptops & Smartphones** generate the highest revenue. Focus marketing efforts on these products.<br>
+📌 **North & East regions** drive the most sales. Consider expanding services in these areas.<br>
+📌 **Customers aged 45-54** spend the most. Personalized marketing can increase sales.<br>
+📌 **5% of orders are returned**, indicating potential issues with product quality or delivery service.<br>
 
 ---
 
