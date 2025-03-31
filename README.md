@@ -85,7 +85,11 @@ The Python analysis was performed using **Pandas and SQLAlchemy** to process sal
 ![Sales Trends over time](img/Image10.PNG)<br>
 
 **Monthly Sales Trends Over Time** → Identified peak shopping months.<br><br>
-![Sales Trends over time](img/Image12.PNG)<br>
+![Sales Trends over time](img/Image13.PNG)<br>
+
+- **Top-Selling Product** → Which product has the most sales?<br><br>
+![Top-selling Product](img/Image12.PNG)<br>
+
 
 - **Customer Spending Trends** → Gender-based and region-based analysis.<br><br>
 ![Agerage spending per customer by gender](img/Image11.PNG)<br>
